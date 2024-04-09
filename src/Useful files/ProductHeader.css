@@ -1,0 +1,24 @@
+.Header{
+  color: #fff;
+  background-color: black;
+  margin: 0%;
+}
+
+.header-container {
+  display: flex;
+  background-color: black;
+  align-items: center; /* optional, to align items vertically */
+  justify-content: space-between;
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+}
+
+.bi-cart-check {
+  margin-right: 10px;
+  margin-left: 10px;
+  color: white;
+}
+

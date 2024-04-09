@@ -1,0 +1,10 @@
+.form-inline{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 30px;
+}
+
+.input-gap {
+  margin-right: 20px; /* Adjust as needed */
+}
